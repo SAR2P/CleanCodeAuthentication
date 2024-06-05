@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "nk6yoOFxv09tHiJ+s4Nr+bs6N0cvYpOFWSo01yIGUePNi7euerzmfvkYfesU6Q3zqLpW0gnaJYO33eNmXoc4vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DAIC\\Desktop\\CleanArchitectur_Identity_Jwt_BackEnd\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DAIC\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.6\\microsoft.aspnetcore.cryptography.internal.8.0.6.nupkg.sha512",
+    "C:\\Users\\DAIC\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.6\\microsoft.aspnetcore.cryptography.keyderivation.8.0.6.nupkg.sha512",
+    "C:\\Users\\DAIC\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\DAIC\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\DAIC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\DAIC\\.nuget\\packages\\microsoft.extensions.identity.core\\8.0.6\\microsoft.extensions.identity.core.8.0.6.nupkg.sha512",
+    "C:\\Users\\DAIC\\.nuget\\packages\\microsoft.extensions.identity.stores\\8.0.6\\microsoft.extensions.identity.stores.8.0.6.nupkg.sha512",
+    "C:\\Users\\DAIC\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\DAIC\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\DAIC\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\DAIC\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
